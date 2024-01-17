@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.video_player--container {
+  padding: 40px 0;
+}
+
+.video_player--big video {
+  height: 100%;
+}
+
+.video_player--list {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  list-style: none;
+}
